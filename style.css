@@ -26,9 +26,13 @@ label{
     display: inline-block;
 }
 
-#principal, #years{
+#principal{
     width: 100px;
    
+}
+
+#years{
+    width: 35px;
 }
 
 footer{
