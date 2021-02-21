@@ -1,4 +1,37 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    
+    background-color: black; 
+    font-family: arial;  
+    color: white;
+    font-size: 10px;
+}
 
+h1{
+    color:grey;
+    font-family: Verdana;
+}
+
+
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+}
+
+label{
+    width: 100px;
+    display: inline-block;
+}
+
+#principal, #years{
+    width: 100px;
+   
+}
+
+footer{
+    margin-top: 10px;
+}
 
